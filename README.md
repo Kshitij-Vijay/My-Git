@@ -1,2 +1,5 @@
 # My-Git
 I just learn about git hub
+
+ORIGINAL PROJECT WITHOUT FORKING : UPSTREAM PROJECT
+
